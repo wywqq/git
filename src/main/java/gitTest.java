@@ -3,6 +3,6 @@ public class gitTest {
 
         System.out.println("hello atguigu");
         System.out.println("unbelievable");
-        System.out.println("master1111122222");
+        System.out.println("master");
     }
 }
